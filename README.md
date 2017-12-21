@@ -1,2 +1,2 @@
 # GitHubTrain2
-* Update by KB Lee *
+* Update by KB Lee
